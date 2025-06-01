@@ -23,9 +23,6 @@ This book covers the following exciting features:
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1788993918) today!
 
-<a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
-alt="https://www.packtpub.com/" border="5" /></a>
-
 ## Instructions and Navigations
 All of the code is organized into folders. For example, Chapter02.
 
@@ -80,3 +77,6 @@ has been working with CUDA and general-purpose GPU programming since 2014. He re
 
  <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
 <p align="center"> <a href="https://packt.link/free-ebook/9781788993913">https://packt.link/free-ebook/9781788993913 </a> </p>
+
+### Book Cover
+![Image text](https://github.com/cuiyixin555/Hands_On_GPU_Programming_with_Python_and_CUDA/blob/master/book_cover.jpg)
